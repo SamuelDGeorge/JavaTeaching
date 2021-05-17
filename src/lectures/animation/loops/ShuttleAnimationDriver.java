@@ -8,6 +8,7 @@ import lectures.mvc.graphics.AnObservablePlottedShuttle;
 import bus.uigen.OEFrame;
 import bus.uigen.ObjectEditor;
 
+//Test
 public class ShuttleAnimationDriver {	
 	public static void demoShuttleAnimation(ShuttleAnimator aShuttleAnimator, PlottedShuttle aShuttle,  OEFrame anOEFrame) {
 		aShuttleAnimator.animateFromOrigin(aShuttle, 5, 100);	
